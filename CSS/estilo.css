@@ -100,14 +100,5 @@ header .textos-header{
     text-align: justify;
     margin-left: auto;
 }
-/*galeria*/
-.portafolio{
-    background: white;
 
-}
-.galeria-port{
-    display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-}
 
